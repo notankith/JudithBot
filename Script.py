@@ -1,17 +1,15 @@
 class script(object):
     START_TXT = """Heyy... {} 💖
 
-<b><u>𝖨'𝗆 𝖯𝗈𝗐𝖾𝗋𝖿𝗎𝗅 𝖠𝗎𝗍𝗈-𝖥𝗂𝗅𝗍𝖾𝗋 𝖡𝗈𝗍 Which Provides Movies/Series Files</u></b>
+<b>𝖨'𝗆 𝖯𝗈𝗐𝖾𝗋𝖿𝗎𝗅 𝖠𝗎𝗍𝗈-𝖥𝗂𝗅𝗍𝖾𝗋 𝖡𝗈𝗍 Which Provides Movies/Series Files</b>
 
-<i>To Use Me ; 𝖩𝗎𝗌𝗍 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 𝖠𝗌 𝖠𝖽𝗆𝗂𝗇, 
-And Search For Your Preferred File, 𝗂 𝗐𝗂𝗅𝗅 𝖯𝗋𝗈𝗏𝗂𝖽𝖾 Files 𝖳𝗁𝖾𝗋𝖾...✨</i>
-
-
-
+<i>Type Your Preferred Files Name And Send You'll Get Your File Within Seconds 🫧
+Or Add This Bot To Your Group✨</i>
 
 Powered By @ExaBots
-
 """
+
+
 
     HELP_TXT = """🙋🏻‍♂️   Holaaa..   {} 🫧
 
